@@ -1,5 +1,5 @@
-To run:
- cd ReactChatapp\my-app
- npm run dev
+<h1>To run: </h1><br>
+<h3> cd ReactChatapp\my-app </h3><br>
+<h3> npm run dev </h3><br>
 
- Enjoy!
+<h1> Enjoy! </h1>
